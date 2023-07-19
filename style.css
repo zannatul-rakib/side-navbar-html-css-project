@@ -7,6 +7,11 @@
   text-decoration: none;
   font-family: "Poppins", sans-serif;
 }
+body {
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .sidebar {
   position: fixed;
   left: -250px;
